@@ -1,5 +1,9 @@
 # SelectNoise: Unsupervised Noise Injection to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages
 
+<p align="center">
+<img alt="Overview of SelectNoise: Unsupervised Noise Injection to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages" src="./overview.png" width="90%">
+</p>
+
 ## Experimental setup
 To be added soon
 
